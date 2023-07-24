@@ -1,7 +1,7 @@
 # Lesson 1
 
 ## empty-pbi-template
-[empty-template.pbix]https://github.com/KevinWistronITS/Power-BI/blob/main/Lesson%201/empty-template.pbix
+[empty-template.pbix](https://github.com/KevinWistronITS/Power-BI/blob/main/Lesson%201/empty-template.pbix)
 
 ## _Power Query data refine and setting introduction_
 [gdp-countries.xlsx](https://github.com/KevinWistronITS/Power-BI/files/12143236/gdp-countries.xlsx)
