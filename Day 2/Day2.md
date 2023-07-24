@@ -19,7 +19,7 @@
 [Dax Project 1](https://github.com/KevinWistronITS/Power-BI/blob/main/Day%202/100-revenue-cost-start.pbix)
 
 ## *Assigment 2*
-[Download Assignment 2 PBI File](https://github.com/KevinWistronITS/Power-BI/blob/main/Day%202/assignment-2-start.pbix))\
+[Download Assignment 2 PBI File](https://github.com/KevinWistronITS/Power-BI/blob/main/Day%202/assignment-2-start.pbix)\
 [Assignment2.docx](https://github.com/KevinWistronITS/Power-BI/files/12143572/Assignment2.docx)
 
 ### Source file
