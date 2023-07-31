@@ -14,4 +14,6 @@
 - Formatting the Page Background/Wallpaper
 - Formatting the Filter Pane & Filter Cards
 - Formatting Visual: General Settings
--
+- Work with report theme
+
+**_Since no Power Automate class this week, the update to be announced._**
